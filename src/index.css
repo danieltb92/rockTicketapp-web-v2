@@ -3,6 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 :root {
   font-family: Squada One, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 90%;
@@ -11,7 +12,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  /* background: radial-gradient(ellipse 80% 80% at 50% -20%,rgba(120,119,198,0.3),rgba(255,255,255,0)); */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
