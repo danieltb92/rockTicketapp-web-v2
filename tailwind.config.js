@@ -7,10 +7,9 @@ export default {
   theme: {
     extend: {
       lineHeight: {
-        "90": "90%",
+        '90': '90%',
       },
-    },
   },
   plugins: [],
+  }
 }
-
