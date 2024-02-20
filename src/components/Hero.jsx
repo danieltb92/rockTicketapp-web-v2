@@ -1,4 +1,4 @@
-import logo from '../assets/images/RockTicket_Logo.png';
+import logo from '../assets/logo-rockticket.svg';
 import googlePlay from '../assets/images/1.png';
 import appStore from '../assets/images/2.png';
 import '../css/hero.css';
@@ -10,7 +10,7 @@ function Hero() {
     return (
         <>  
             <div className=' hero z-0 top-0 flex justify-center'></div>
-            <div className=" z-10 top-0 absolute w-screen h-screen flex justify-center flex-col items-center">
+            <div className=" z-10 top-0 absolute w-screen h-screen flex justify-center flex-col items-center w-full">
                 <img className="w-48" src={logo} alt="Logo RockTicket" />
                 <h1 className="text-7xl text-center tracking-wide leading-90 pt-16 pb-3"> Dejate contagiar <br></br>por el
                     <span className="text-sky-300"> Rock.</span>
