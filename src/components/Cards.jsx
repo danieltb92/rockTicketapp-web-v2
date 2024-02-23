@@ -27,7 +27,7 @@ const cards =[
 
 function Feature () {
     return (
-        <div className='grid grid-cols-2 grid-rows-2 gap-32 justify-center items-center w-full'>
+        <div className='flex flex-col gap-2 md:grid grid-cols-2 grid-rows-2 md:gap-32 mx-2 justify-center items-center w-full'>
            
             {
                 cards.map ( ({id, title, description}) => (

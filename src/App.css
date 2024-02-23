@@ -12,9 +12,9 @@ background: linear-gradient(180deg,#0e0e0e 0%,  #232323 70%, #1F1F1F 100%);
 .banner-p{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 1rem;
-    letter-spacing: 0.03rem;
+    letter-spacing: 1.6px;
 }
 
 .bg-gif {
