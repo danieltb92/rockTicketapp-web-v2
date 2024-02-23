@@ -6,6 +6,14 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        primary: '#292952',
+        secundary: '#4FAAA8'
+      },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+        squadaOne: ['Squada One', 'sans-serif'],
+      },
       lineHeight: {
         '90': '90%',
       },

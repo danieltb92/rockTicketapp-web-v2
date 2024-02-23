@@ -4,7 +4,7 @@ flex-direction: column;
 top: 0; 
 width: 100vw; 
 height: 100%; 
-background: linear-gradient(180deg,#0e0e0e 0%, #171717 38.57%, #232323 70.77%, #1F1F1F 100%);
+background: linear-gradient(180deg,#0e0e0e 0%,  #232323 70%, #1F1F1F 100%);
 /* background: radial-gradient
     (ellipse 80% 80% at 50% -20%,rgba(0,0,0,1),rgba(255,255,255,0)); */
 }
@@ -12,9 +12,9 @@ background: linear-gradient(180deg,#0e0e0e 0%, #171717 38.57%, #232323 70.77%, #
 .banner-p{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 1rem;
-    letter-spacing: 0.03rem;
+    letter-spacing: 1.6px;
 }
 
 .bg-gif {
