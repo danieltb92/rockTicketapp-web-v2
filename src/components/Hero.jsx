@@ -12,7 +12,7 @@ function Hero() {
             <div className=' hero z-0 top-0 flex justify-center'></div>
             <div className=" z-10 top-0 absolute w-screen h-screen flex justify-center flex-col items-center">
                 <img className="w-48" src={logo} alt="Logo RockTicket" />
-                <h1 className="text-6xl lg:text-8xl md:text-7xl text-center tracking-wide leading-90 pt-16 pb-3 mx-10"> Dejate contagiar <br></br>por el
+                <h1 className="text-6xl lg:text-8xl md:text-7xl text-center tracking-wide leading-[80%] pt-16 pb-3 mx-10"> Dejate contagiar <br></br>por el
                     <span className="text-sky-300"> Rock.</span>
                 </h1>
                 <h4 className="font-roboto hero-h4 hero-h4-lg text-xs leading-5 text-center tracking-[1.6px] m-10">
