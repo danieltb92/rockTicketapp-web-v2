@@ -20,10 +20,10 @@ function Hero() {
                     Descarga la app  y dejate contagiar de la energia del rock.</h4>
                 <section className="flex justify-center m-6 gap-3">
                     <a href="https://play.google.com/" target="_blank" rel="noopener">
-                        <img className="h-10" src={googlePlay} alt="boton google play" />
+                        <img className="h-10 hover:invert" src={googlePlay} alt="boton google play" />
                     </a>
                     <a href="https://www.apple.com/co/app-store/" target="_blank" rel="noopener">
-                        <img className="h-10 " src={appStore} alt="boton app store" />
+                        <img className="h-10 hover:invert" src={appStore} alt="boton app store" />
                     </a>
                 </section>
             </div>
