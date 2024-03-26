@@ -14,7 +14,7 @@ function Hero() {
             <div className=" z-10 top-0 absolute w-screen h-screen flex justify-center flex-col items-center">
                 <img className='absolute z-50 top-0' src={lights} alt="" />
                 <img className="z-10 w-48" src={logo} alt="Logo RockTicket" />
-                <h1 className="z-10 text-6xl lg:text-8xl md:text-7xl text-center tracking-wide leading-[80%] pt-16 pb-2 mx-10"> Dejate contagiar <br></br>por el
+                <h1 className="z-10 text-6xl text-center tracking-wide leading-[90%] lg:leading-[80%] md:leading-[80%] pt-16 pb-2 mx-10 lg:text-8xl md:text-7xl"> Dejate contagiar <br></br>por el
                     <span className="text-sky-300"> Rock.</span>
                 </h1>
                 <h4 className="z-10 font-roboto hero-h4 hero-h4-lg text-xs leading-5 text-center tracking-[1.6px] mb-10 mx-2">
