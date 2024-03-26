@@ -17,7 +17,7 @@ function Hero() {
                 <h1 className="z-10 text-6xl text-center tracking-wide leading-[90%] lg:leading-[80%] md:leading-[80%] pt-16 pb-2 mx-10 lg:text-8xl md:text-7xl"> Dejate contagiar <br></br>por el
                     <span className="text-sky-300"> Rock.</span>
                 </h1>
-                <h4 className="z-10 font-roboto hero-h4 hero-h4-lg text-xs leading-5 text-center tracking-[1.6px] mb-10 mx-2">
+                <h4 className="z-10 font-roboto hero-h4 hero-h4-lg text-xs leading-5 text-center tracking-[1.6px] mb-10 mx-2 mt-3">
                     La App que te lleva a los mejores conciertos de rock en tu ciudad.<br></br>
                     Descarga la app  y dejate contagiar de la energia del rock.</h4>
                 <section className="z-10 flex justify-center m-6 gap-3">
